@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": 19999,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Smartphone.jpg",
+    "description": "A smartphone with excellent features."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 59999,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Laptop.jpg",
+    "description": "High-performance laptop for work and gaming."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Fashion",
+    "image": "./src/assets/pics/Running Shoes.jpg",
+    "description": "Comfortable running shoes for daily use."
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "./src/assets/pics/Backpack.jpg",
+    "description": "Durable backpack with ample storage."
+  },
+  {
+    "id": 5,
+    "name": "Wrist Watch",
+    "price": 1999,
+    "category": "Accessories",
+    "image": "./src/assets/pics/Wrist Watch.jpg",
+    "description": "Stylish watch for all occasions."
+  },
+  {
+    "id": 6,
+    "name": "Headphones",
+    "price": 2999,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Headphones.jpg",
+    "description": "Noise-cancelling over-ear headphones."
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse",
+    "price": 999,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Wireless Mouse.jpg",
+    "description": "Ergonomic wireless mouse with great battery life."
+  },
+  {
+    "id": 8,
+    "name": "Keyboard",
+    "price": 1499,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Keyboard.jpg",
+    "description": "Mechanical keyboard with RGB lighting."
+  },
+  {
+    "id": 9,
+    "name": "Smartwatch",
+    "price": 3999,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Smartwatch.jpg",
+    "description": "Feature-packed smartwatch for fitness and notifications."
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "price": 2499,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Bluetooth Speaker.jpg",
+    "description": "Portable Bluetooth speaker with deep bass."
+  },
+  {
+    "id": 11,
+    "name": "Sunglasses",
+    "price": 1299,
+    "category": "Fashion",
+    "image": "./src/assets/pics/Sunglasses.jpg",
+    "description": "Stylish sunglasses for sunny days."
+  },
+  {
+    "id": 12,
+    "name": "T-shirt",
+    "price": 799,
+    "category": "Fashion",
+    "image": "./src/assets/pics/T-shirt.jpg",
+    "description": "Comfortable cotton T-shirt."
+  },
+  {
+    "id": 13,
+    "name": "Jeans",
+    "price": 1799,
+    "category": "Fashion",
+    "image": "./src/assets/pics/Jeans.jpg",
+    "description": "Durable and trendy denim jeans."
+  },
+  {
+    "id": 14,
+    "name": "Coffee Mug",
+    "price": 499,
+    "category": "Home & Kitchen",
+    "image": "./src/assets/pics/Coffee Mug.jpg",
+    "description": "Ceramic mug for hot beverages."
+  },
+  {
+    "id": 15,
+    "name": "Water Bottle",
+    "price": 799,
+    "category": "Accessories",
+    "image": "./src/assets/pics/Water Bottle.jpg",
+    "description": "Insulated water bottle for long-lasting cool drinks."
+  },
+  {
+    "id": 16,
+    "name": "Desk Lamp",
+    "price": 1499,
+    "category": "Home & Office",
+    "image": "./src/assets/pics/Desk Lamp.jpg",
+    "description": "LED desk lamp with adjustable brightness."
+  },
+  {
+    "id": 17,
+    "name": "Bookshelf",
+    "price": 2999,
+    "category": "Furniture",
+    "image": "./src/assets/pics/Bookshelf.jpg",
+    "description": "Compact bookshelf for organizing books."
+  },
+  {
+    "id": 18,
+    "name": "Power Bank",
+    "price": 1299,
+    "category": "Electronics",
+    "image": "./src/assets/pics/Power Bank.jpg",
+    "description": "Portable power bank for charging on the go."
+  },
+  {
+    "id": 19,
+    "name": "Desk Chair",
+    "price": 4999,
+    "category": "Furniture",
+    "image": "./src/assets/pics/Desk Chair.jpg",
+    "description": "Ergonomic desk chair for comfortable seating."
+  },
+  {
+    "id": 20,
+    "name": "Kitchen Blender",
+    "price": 2499,
+    "category": "Home & Kitchen",
+    "image": "./src/assets/pics/Kitchen Blender.jpg",
+    "description": "High-speed blender for smoothies and shakes."
+  }
+]
