@@ -4,7 +4,7 @@
     "name": "Smartphone",
     "price": 19999,
     "category": "Electronics",
-    "image": "../public/assets/Smartphone.jpg",  
+    "image": "/assets/Smartphone.jpg",  
     "description": "A smartphone with excellent features."
   },
   {
@@ -12,7 +12,7 @@
     "name": "Laptop",
     "price": 59999,
     "category": "Electronics",
-    "image": "../public/assets/Laptop.jpg",  
+    "image": "/assets/Laptop.jpg",  
     "description": "High-performance laptop for work and gaming."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Running Shoes",
     "price": 2499,
     "category": "Fashion",
-    "image": "../public/assets/Running Shoes.jpg",  
+    "image": "/assets/Running Shoes.jpg",  
     "description": "Comfortable running shoes for daily use."
   },
   {
@@ -28,7 +28,7 @@
     "name": "Backpack",
     "price": 1299,
     "category": "Accessories",
-    "image": "../public/assets/Backpack.jpg",  
+    "image": "/assets/Backpack.jpg",  
     "description": "Durable backpack with ample storage."
   },
   {
@@ -36,7 +36,7 @@
     "name": "Wrist Watch",
     "price": 1999,
     "category": "Accessories",
-    "image": "../public/assets/Wrist Watch.jpg",  
+    "image": "/assets/Wrist Watch.jpg",  
     "description": "Stylish watch for all occasions."
   },
   {
@@ -44,7 +44,7 @@
     "name": "Headphones",
     "price": 2999,
     "category": "Electronics",
-    "image": "../public/assets/Headphones.jpg",  
+    "image": "/assets/Headphones.jpg",  
     "description": "Noise-cancelling over-ear headphones."
   },
   {
@@ -52,7 +52,7 @@
     "name": "Wireless Mouse",
     "price": 999,
     "category": "Electronics",
-    "image": "../public/assets/Wireless Mouse.jpg",  
+    "image": "/assets/Wireless Mouse.jpg",  
     "description": "Ergonomic wireless mouse with great battery life."
   },
   {
@@ -60,7 +60,7 @@
     "name": "Keyboard",
     "price": 1499,
     "category": "Electronics",
-    "image": "../public/assets/Keyboard.jpg",  
+    "image": "/assets/Keyboard.jpg",  
     "description": "Mechanical keyboard with RGB lighting."
   },
   {
@@ -68,7 +68,7 @@
     "name": "Smartwatch",
     "price": 3999,
     "category": "Electronics",
-    "image": "../public/assets/Smartwatch.jpg",  
+    "image": "/assets/Smartwatch.jpg",  
     "description": "Feature-packed smartwatch for fitness and notifications."
   },
   {
@@ -76,7 +76,7 @@
     "name": "Bluetooth Speaker",
     "price": 2499,
     "category": "Electronics",
-    "image": "../public/assets/Bluetooth Speaker.jpg",  
+    "image": "/assets/Bluetooth Speaker.jpg",  
     "description": "Portable Bluetooth speaker with deep bass."
   },
   {
@@ -84,7 +84,7 @@
     "name": "Sunglasses",
     "price": 1299,
     "category": "Fashion",
-    "image": "../public/assets/Sunglasses.jpg",  
+    "image": "/assets/Sunglasses.jpg",  
     "description": "Stylish sunglasses for sunny days."
   },
   {
@@ -92,7 +92,7 @@
     "name": "T-shirt",
     "price": 799,
     "category": "Fashion",
-    "image": "../public/assets/T-shirt.jpg",  
+    "image": "/assets/T-shirt.jpg",  
     "description": "Comfortable cotton T-shirt."
   },
   {
@@ -100,7 +100,7 @@
     "name": "Jeans",
     "price": 1799,
     "category": "Fashion",
-    "image": "../public/assets/Jeans.jpg",  
+    "image": "/assets/Jeans.jpg",  
     "description": "Durable and trendy denim jeans."
   },
   {
@@ -108,7 +108,7 @@
     "name": "Coffee Mug",
     "price": 499,
     "category": "Home & Kitchen",
-    "image": "../public/assets/Coffee Mug.jpg",  
+    "image": "/assets/Coffee Mug.jpg",  
     "description": "Ceramic mug for hot beverages."
   },
   {
@@ -116,7 +116,7 @@
     "name": "Water Bottle",
     "price": 799,
     "category": "Accessories",
-    "image": "../public/assets/Water Bottle.jpg",  
+    "image": "/assets/Water Bottle.jpg",  
     "description": "Insulated water bottle for long-lasting cool drinks."
   },
   {
@@ -124,7 +124,7 @@
     "name": "Desk Lamp",
     "price": 1499,
     "category": "Home & Office",
-    "image": "../public/assets/Desk Lamp.jpg",  
+    "image": "/assets/Desk Lamp.jpg",  
     "description": "LED desk lamp with adjustable brightness."
   },
   {
@@ -132,7 +132,7 @@
     "name": "Bookshelf",
     "price": 2999,
     "category": "Furniture",
-    "image": "../public/assets/Bookshelf.jpg",  
+    "image": "/assets/Bookshelf.jpg",  
     "description": "Compact bookshelf for organizing books."
   },
   {
@@ -140,7 +140,7 @@
     "name": "Power Bank",
     "price": 1299,
     "category": "Electronics",
-    "image": "../public/assets/Power Bank.jpg",  
+    "image": "/assets/Power Bank.jpg",  
     "description": "Portable power bank for charging on the go."
   },
   {
@@ -148,7 +148,7 @@
     "name": "Desk Chair",
     "price": 4999,
     "category": "Furniture",
-    "image": "../public/assets/Desk Chair.jpg",  
+    "image": "/assets/Desk Chair.jpg",  
     "description": "Ergonomic desk chair for comfortable seating."
   },
   {
@@ -156,7 +156,7 @@
     "name": "Kitchen Blender",
     "price": 2499,
     "category": "Home & Kitchen",
-    "image": "../public/assets/Kitchen Blender.jpg",  
+    "image": "/assets/Kitchen Blender.jpg",  
     "description": "High-speed blender for smoothies and shakes."
   }
 ]
